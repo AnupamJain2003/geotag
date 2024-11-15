@@ -31,7 +31,11 @@ curl -X POST http://127.0.0.1:5000/recommend_location \
     "country": "India",
     "best_location_type": "restaurant",
     "time_preference": 0.6,
-    "rating_preference": 0.4,
+    "rating_preferenc
+
+https://github.com/user-attachments/assets/8d256b47-67c2-4bb2-8719-869b118e17ca
+
+e": 0.4,
     "min_rating": 4.0,
     "amenities": "supermarket, school, park"
 }'
